@@ -1,0 +1,20 @@
+#one{
+    background-color:green ;
+    width: 200px;
+    padding: 50px;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#two{
+    background-color: yellow;
+    width: 200px;
+    padding: 50px;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
